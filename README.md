@@ -3,7 +3,7 @@ The present repository contains a workflow of the analysis of whole genome seque
 
 The files include the following workflow scripts:
 
--Assembly, annotation and taxonomic assignation of WGS
--Large scale comparison and relative abundance estimation of single genomes against metagenomic samples
--Functional interactions of synthetic microbial communities assesed by metaproteomics
--Quantification of the expression of the endopeptidase pepO in species of Lactobacillaceae
+  -Assembly, annotation and taxonomic assignation of WGS
+  -Large scale comparison and relative abundance estimation of single genomes against metagenomic samples
+  -Functional interactions of synthetic microbial communities assesed by metaproteomics
+  -Quantification of the expression of the endopeptidase pepO in species of Lactobacillaceae
